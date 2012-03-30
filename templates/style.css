@@ -1,0 +1,88 @@
+<style type="text/css" href="mystyle.css" />
+
+
+body {
+				margin:0;
+     }
+
+
+.header{ 
+	    		 background-color: #EDEDEE;
+				 height:93px;
+			 }
+.logo_box{ 
+	      		 background-image:url('templates/images/people_hub.png');
+	      		 width:164px;
+				 height:128px;
+				 position:absolute;
+				 left:300px;
+				 top:17px;
+				 border-top-right-radius:5px;
+				 border-bottom-right-radius:5px;
+				 border-top-left-radius:5px;
+				 border-bottom-left-radius:5px;
+				
+		}
+
+
+.but_prnt{
+			margin-left: 1140px;
+			width:50px;
+			height:22px;	
+}
+
+.logout{ 
+				margin-left: 20px;
+				float:left;
+				top:79px;
+				left:9px;	
+	   	 }
+.hello { 
+				margin-left: 20px;
+				top:79px;
+				left:80px;	
+				float: left;
+	   	 }
+
+.content{ 
+          	background-color: #EDEDEE;
+						
+       	}	      
+.login{ 
+				width:366px;
+				height:258px;	
+			}
+
+.top{ 
+			background-color:#0A6184;
+			width:366px;
+			height:20px;	
+		}
+
+
+					
+.submit{
+				 bottom:450px;
+				 /*position: absolute;*/
+				 float:right;
+				 right: 500px; 
+			 }
+		
+
+
+a:visited{
+		COLOR:#FFFFFF;
+}
+
+
+	   
+.footer{ 
+					border-top:1px solid gray;
+					clear: both;
+					color: #9EC1CF;
+					font-size: 11px;
+					text-align: center;
+				}
+
+	
+</style>
